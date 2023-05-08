@@ -1,1 +1,38 @@
-
+[
+  {
+    "title": "Kimetsu no Yaiba",
+    "tags": ["Fantasy, Historical, Shounen, Manga, Drama"],
+    "description": "Kimetsu no Yaiba _ Tanjirou là con cả của gia đình vừa mất cha.",
+    "cover": "https://iili.io/H8lnZap.jpg",
+    "author": "Gotouge Koyoharu",
+    "chapterList": [
+      "Chương 1",
+      "Chương 2",
+      "Chương 3"
+    ]
+  },
+  {
+    "title": "Doreamon",
+    "tags": ["Học đường, Lãng mạn, Shounen, Drama"],
+    "description": "Doreamon là một series manga của Nhật Bản do Fujiko F. Fujio sáng tác từ tháng 12 năm 1969 đến tháng 4 năm 1996 đăng trên tạp chí CoroCoro Comic của nhà xuất bản Shogakukan",
+    "cover": "https://iili.io/H8VmVfV.jpg",
+    "author": "Fujiko Fujio",
+    "chapterList": [
+      "Chương 1",
+      "Chương 2",
+      "Chương 3"
+    ]
+  },
+  {
+    "title": "SPY X FAMILY",
+    "tags": ["Học đường, Lãng mạn, Shounen, Drama"],
+    "description": "Anh điệp viên lấy vợ sát thủ và có con siêu năng",
+    "cover": "https://iili.io/H8VpB1V.jpg",
+    "author": "Endou Tatsuya",
+    "chapterList": [
+      "Chương 1",
+      "Chương 2",
+      "Chương 3"
+    ]
+  }
+]
